@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  SimulateStandup.cpp
+c:\users\sebastian.wassberg\documents\visual studio 2015\projects\simulatestandup\simulatestandup\simulatestandup.cpp(22): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\sebastian.wassberg\documents\visual studio 2015\projects\simulatestandup\simulatestandup\simulatestandup.cpp(25): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\sebastian.wassberg\documents\visual studio 2015\projects\simulatestandup\simulatestandup\simulatestandup.cpp(56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian.wassberg\documents\visual studio 2015\projects\simulatestandup\simulatestandup\simulatestandup.cpp(57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  SimulateStandup.vcxproj -> c:\users\sebastian.wassberg\documents\visual studio 2015\Projects\SimulateStandup\Debug\SimulateStandup.exe
+  SimulateStandup.vcxproj -> c:\users\sebastian.wassberg\documents\visual studio 2015\Projects\SimulateStandup\Debug\SimulateStandup.pdb (Full PDB)
