@@ -1,6 +1,6 @@
 # simulatestandup
 
-Simulera i solutionfilen, se till att resultatet (stå eller inte stå) sparas i result.txt
+Simulera i solutionfilen, se till att resultatet (där eller inte där) sparas i result.txt
 
 i othertools/checkResults.R kan resultatet plottas mot input (https://www.rstudio.com/)
 
