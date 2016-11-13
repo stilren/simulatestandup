@@ -62,7 +62,7 @@ int main() {
 		}
 
 		//Save to result to file
-		resultFile << diff << endl;
+		resultFile << diff << "," << endl;
 	}
 	resultFile.close();
 
